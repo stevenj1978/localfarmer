@@ -1,3 +1,2213 @@
 [2024-10-27 14:15:10] Watcher initialized
 [2024-10-27 14:15:18] DEBUG: Detected change: Changed on C:\localfarmerz\test.txt
 [2024-10-27 14:15:18] Processing change...
+[2024-10-27 14:15:18] Git add result: 
+[2024-10-27 14:15:18] Git commit result: [development 9f6122e] Auto-commit: Changes at 2024-10-27 14:15:18  2 files changed, 3 insertions(+), 2 deletions(-)
+[2024-10-27 14:15:18] ERROR: A Using variable cannot be retrieved. A Using variable can be used only with Invoke-Command, Start-Job, or InlineScript in the script workflow. When it is used with Invoke-Command, the Using variable is valid only if the script block is invoked on a remote computer.
+[2024-10-27 14:15:18] ERROR Stack: at <ScriptBlock>, <No file>: line 21
+[2024-10-27 14:15:18] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:18] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:18] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:18] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:18] DEBUG: Detected change: Changed on C:\localfarmerz\.git
+[2024-10-27 14:15:18] DEBUG: Ignored change to C:\localfarmerz\.git
+[2024-10-27 14:15:18] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:18] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:18] DEBUG: Detected change: Changed on C:\localfarmerz\.git
+[2024-10-27 14:15:18] DEBUG: Ignored change to C:\localfarmerz\.git
+[2024-10-27 14:15:18] DEBUG: Detected change: Changed on C:\localfarmerz\.git
+[2024-10-27 14:15:18] DEBUG: Ignored change to C:\localfarmerz\.git
+[2024-10-27 14:15:18] DEBUG: Detected change: Changed on C:\localfarmerz\.git
+[2024-10-27 14:15:18] DEBUG: Ignored change to C:\localfarmerz\.git
+[2024-10-27 14:15:18] DEBUG: Detected change: Changed on C:\localfarmerz\.git
+[2024-10-27 14:15:18] DEBUG: Ignored change to C:\localfarmerz\.git
+[2024-10-27 14:15:18] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:18] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:18] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:18] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:18] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:18] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:18] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:18] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:18] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:18] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:18] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:18] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:18] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:18] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:18] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:18] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:18] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:18] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:18] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:18] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:18] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:18] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:18] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:18] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:18] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:18] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:18] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:18] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:18] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:18] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:18] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:18] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:18] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:18] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:18] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:18] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:18] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:18] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:18] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:18] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:18] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:18] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:18] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:18] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:23] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:24] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:24] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:24] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:24] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:24] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:24] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:24] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:24] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:24] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:24] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:24] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:24] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:25] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:25] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:25] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:25] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:25] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:25] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:25] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:25] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:25] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:25] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:25] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:25] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:26] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:26] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:26] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:26] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:26] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:26] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:26] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:26] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:26] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:26] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:26] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:26] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:27] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:27] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:27] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:27] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:27] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:27] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:27] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:27] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:27] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:27] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:27] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:27] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:28] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:28] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:28] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:28] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:28] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:28] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:28] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:28] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:28] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:28] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:28] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:28] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:28] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:28] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:28] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:28] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:29] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:29] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:29] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:29] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:29] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:29] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:29] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:29] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:29] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:29] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:29] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:29] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:30] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:30] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:30] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:30] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:30] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:30] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:30] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:30] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:30] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:30] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:30] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:30] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:31] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:31] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:31] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:31] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:31] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:31] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:31] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:31] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:31] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:31] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:31] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:31] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:32] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:32] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:32] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:32] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:32] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:32] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:32] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:32] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:32] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:32] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:32] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:32] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:33] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:33] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:33] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:33] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:33] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:33] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:33] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:33] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:33] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:33] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:33] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:33] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:33] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:33] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:33] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:33] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:34] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:34] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:34] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:34] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:34] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:34] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:34] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:34] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:34] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:34] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:34] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:34] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:37] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:37] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:37] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:37] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:37] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:37] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:37] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:37] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:37] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:37] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:37] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:37] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:38] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:38] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:38] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:38] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:38] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:38] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:38] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:38] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:38] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:38] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:38] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:38] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:38] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:38] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:38] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:38] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:39] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:39] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:39] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:39] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:39] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:39] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:39] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:39] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:39] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:39] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:39] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:39] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:40] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:40] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:40] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:40] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:40] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:40] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:40] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:40] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:40] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:40] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:40] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:40] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:41] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:41] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:41] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:41] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:41] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:41] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:41] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:41] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:41] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:41] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:41] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:41] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:42] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:42] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:42] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:42] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:42] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:42] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:42] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:42] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:42] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:42] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:42] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:42] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:43] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:43] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:43] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:43] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:43] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:43] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:43] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:43] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:43] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:43] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:43] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:43] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:43] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:43] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:43] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:43] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:44] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:44] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:44] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:44] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:44] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:44] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:44] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:44] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:44] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:44] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:44] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:44] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:45] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:45] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:45] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:45] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:45] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:45] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:45] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:45] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:45] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:45] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:45] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:45] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:45] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:45] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:45] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:45] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:45] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:45] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:45] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:45] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:45] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:45] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:45] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:45] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:45] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:45] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:45] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:45] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:45] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:45] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:45] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:45] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:45] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:45] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:45] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:45] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:45] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:45] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:45] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:45] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:45] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:45] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:45] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:45] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:45] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:45] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:45] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:45] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:46] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:46] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:46] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:46] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:46] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:46] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:46] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:46] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:46] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:46] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:46] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:46] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:47] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:47] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:47] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:47] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:47] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:47] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:47] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:47] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:47] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:47] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:47] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:47] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:48] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:48] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:48] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:48] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:48] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:48] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:48] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:48] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:48] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:48] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:48] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:48] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:49] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:49] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:49] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:49] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:49] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:49] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:49] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:49] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:49] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:49] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:49] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:49] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:49] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:49] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:49] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:49] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:50] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:50] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:50] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:50] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:50] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:50] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:50] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:50] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:50] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:50] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:50] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:50] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:51] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:51] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:51] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:51] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:51] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:51] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:51] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:51] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:51] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:51] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:51] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:51] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:52] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:52] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:52] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:52] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:52] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:52] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:52] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:52] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:52] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:52] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:52] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:52] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:53] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:53] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:53] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:53] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:53] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:53] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:53] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:53] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:53] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:53] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:53] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:53] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:54] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:54] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:54] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:54] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:54] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:54] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:54] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:54] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:54] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:54] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:54] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:54] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:54] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:54] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:54] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:54] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:55] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:55] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:55] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:55] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:55] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:55] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:55] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:55] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:55] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:55] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:55] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:55] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:56] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:56] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:56] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:56] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:56] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:56] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:56] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:56] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:56] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:56] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:56] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:56] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:57] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:57] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:57] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:57] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:57] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:57] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:57] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:57] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:57] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:57] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:57] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:57] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:58] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:58] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:58] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:58] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:58] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:58] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:58] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:58] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:58] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:58] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:58] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:58] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:59] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:59] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:59] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:59] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:59] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:59] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:59] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:59] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:59] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:59] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:59] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:15:59] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:00] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:00] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:00] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:00] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:00] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:00] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:00] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:00] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:00] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:00] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:00] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:00] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:01] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:01] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:01] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:01] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:01] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:01] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:01] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:01] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:01] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:01] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:01] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:01] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:02] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:02] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:02] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:02] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:02] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:02] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:02] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:02] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:02] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:02] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:02] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:02] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:03] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:03] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:03] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:03] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:03] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:03] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:03] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:03] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:03] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:03] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:03] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:03] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:04] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:04] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:04] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:04] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:04] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:04] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:04] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:04] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:04] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:04] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:04] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:04] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:04] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:04] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:04] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:04] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:05] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:05] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:05] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:05] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:05] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:05] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:05] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:05] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:05] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:05] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:05] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:05] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:06] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:06] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:06] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:06] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:06] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:06] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:06] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:06] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:06] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:06] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:06] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:06] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:07] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:07] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:07] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:07] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:07] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:07] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:07] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:07] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:07] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:07] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:07] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:07] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:08] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:08] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:08] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:08] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:08] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:08] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:08] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:08] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:08] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:08] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:08] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:08] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:09] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:09] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:09] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:09] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:09] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:09] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:09] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:09] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:09] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:09] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:09] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:09] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:09] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:09] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:09] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:09] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:10] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:10] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:10] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:10] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:10] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:10] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:10] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:10] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:10] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:10] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:10] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:10] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:11] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:11] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:11] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:11] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:11] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:11] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:11] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:11] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:11] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:11] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:11] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:11] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:12] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:12] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:12] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:12] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:12] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:12] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:12] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:12] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:12] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:12] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:12] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:12] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:13] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:13] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:13] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:13] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:13] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:13] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:13] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:13] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:13] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:13] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:13] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:13] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:14] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:14] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:14] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:14] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:14] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:14] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:14] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:14] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:14] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:14] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:14] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:14] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:14] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:14] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:14] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:14] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:15] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:15] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:15] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:15] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:15] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:15] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:15] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:15] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:15] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:15] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:15] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:15] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:16] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:16] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:16] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:16] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:16] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:16] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:16] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:16] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:16] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:16] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:16] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:16] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:17] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:17] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:17] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:17] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:17] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:17] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:17] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:17] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:17] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:17] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:17] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:17] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:18] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:18] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:18] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:18] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:18] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:18] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:18] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:18] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:18] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:18] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:18] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:18] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:19] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:19] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:19] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:19] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:19] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:19] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:19] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:19] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:19] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:19] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:19] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:19] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:19] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:19] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:19] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:19] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:20] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:20] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:20] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:20] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:20] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:20] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:20] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:20] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:20] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:20] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:20] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:20] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:21] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:21] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:21] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:21] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:21] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:21] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:21] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:21] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:21] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:21] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:21] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:21] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:22] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:22] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:22] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:22] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:22] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:22] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:22] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:22] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:22] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:22] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:22] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:22] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:23] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:23] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:23] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:23] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:23] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:23] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:23] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:23] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:23] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:23] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:23] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:23] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:24] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:24] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:24] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:24] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:24] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:24] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:24] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:24] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:24] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:24] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:24] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:24] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:24] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:24] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:24] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:24] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:25] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:25] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:25] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:25] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:25] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:25] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:25] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:25] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:25] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:25] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:25] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:25] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:26] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:26] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:26] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:26] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:26] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:26] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:26] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:26] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:26] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:26] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:26] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:26] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:27] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:27] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:27] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:27] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:27] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:27] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:27] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:27] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:27] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:27] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:27] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:27] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:28] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:28] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:28] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:28] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:28] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:28] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:28] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:28] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:28] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:28] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:28] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:28] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:29] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:29] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:29] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:29] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:29] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:29] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:29] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:29] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:29] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:29] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:29] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:29] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:29] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:29] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:29] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:29] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:30] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:30] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:30] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:30] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:30] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:30] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:30] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:30] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:30] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:30] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:30] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:30] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:31] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:31] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:31] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:31] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:31] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:31] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:31] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:31] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:31] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:31] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:31] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:31] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:32] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:32] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:32] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:32] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:32] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:32] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:32] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:32] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:32] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:32] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:32] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:32] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:33] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:33] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:33] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:33] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:33] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:33] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:33] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:33] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:33] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:33] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:33] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:33] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:34] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:34] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:34] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:34] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:34] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:34] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:34] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:34] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:34] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:34] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:34] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:34] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:35] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Detected change: Changed on C:\localfarmerz\watch_and_push.log
+[2024-10-27 14:16:36] DEBUG: Ignored change to C:\localfarmerz\watch_and_push.log
