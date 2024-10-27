@@ -1,4 +1,6 @@
-﻿$path = "C:\localfarmerz"
+# Create the watch_and_push.ps1 script
+$watcherScript = @'
+$path = "C:\localfarmerz"
 $filter = "*.*"
 $logFile = "$path\watch_and_push.log"
 $debounceSeconds = 300  # 5-minute debounce period
@@ -96,3 +98,47 @@ finally {
     Get-EventSubscriber | Unregister-Event
     "[$timestamp] File watcher stopped." | Out-File -FilePath $logFile -Append
 }
+'@
+
+# Create the start_watcher.bat script
+$startScript = @'
+@echo off
+echo Starting Git Watcher...
+powershell -NoProfile -ExecutionPolicy Bypass -Command "& {Start-Process PowerShell -ArgumentList '-NoProfile -ExecutionPolicy Bypass -WindowStyle Hidden -File "%~dp0watch_and_push.ps1"' -Verb RunAs -WindowStyle Hidden}"
+echo Watcher started successfully! This window will close in 3 seconds.
+timeout /t 3 >nul
+'@
+
+# Create the stop_watcher.bat script
+$stopScript = @'
+@echo off
+echo Stopping Git Watcher...
+powershell -NoProfile -ExecutionPolicy Bypass -Command "& {Get-EventSubscriber | Unregister-Event; Write-Host 'Watcher stopped successfully!' -ForegroundColor Green}"
+echo Watcher stopped successfully! This window will close in 3 seconds.
+timeout /t 3 >nul
+'@
+
+# Save all scripts
+$watcherScript | Out-File -FilePath "C:\localfarmerz\watch_and_push.ps1" -Encoding UTF8
+$startScript | Out-File -FilePath "C:\localfarmerz\start_watcher.bat" -Encoding ASCII
+$stopScript | Out-File -FilePath "C:\localfarmerz\stop_watcher.bat" -Encoding ASCII
+
+# Create desktop shortcuts
+$desktopPath = [Environment]::GetFolderPath("Desktop")
+$shell = New-Object -ComObject WScript.Shell
+
+# Create Start Watcher shortcut
+$startShortcut = $shell.CreateShortcut("$desktopPath\Start Git Watcher.lnk")
+$startShortcut.TargetPath = "C:\localfarmerz\start_watcher.bat"
+$startShortcut.WorkingDirectory = "C:\localfarmerz"
+$startShortcut.IconLocation = "C:\Windows\System32\shell32.dll,138"
+$startShortcut.Save()
+
+# Create Stop Watcher shortcut
+$stopShortcut = $shell.CreateShortcut("$desktopPath\Stop Git Watcher.lnk")
+$stopShortcut.TargetPath = "C:\localfarmerz\stop_watcher.bat"
+$stopShortcut.WorkingDirectory = "C:\localfarmerz"
+$stopShortcut.IconLocation = "C:\Windows\System32\shell32.dll,131"
+$stopShortcut.Save()
+
+Write-Host "Setup completed! Shortcuts created on your desktop." -ForegroundColor Green
