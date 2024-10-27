@@ -1,2 +1,3 @@
-
-[2024-10-27 14:13:53] Changed detected on: C:\localfarmerz\test.txt
+[2024-10-27 14:15:10] Watcher initialized
+[2024-10-27 14:15:18] DEBUG: Detected change: Changed on C:\localfarmerz\test.txt
+[2024-10-27 14:15:18] Processing change...
